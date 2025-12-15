@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         IMAGE_NAME = "shrinikha05/web_app"
-        DOCKER_CREDENTIALS = "Shrinikha"
+        DOCKER_CREDENTIALS = "shrinikha05"
     }
 
     stages {
