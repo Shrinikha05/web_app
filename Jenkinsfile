@@ -2,8 +2,8 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = "vanireddy2025/my_webapp"
-        DOCKER_CREDENTIALS = "dockerhubID"
+        IMAGE_NAME = "shrinikha05/web_app"
+        DOCKER_CREDENTIALS = "Shrinikha"
     }
 
     stages {
